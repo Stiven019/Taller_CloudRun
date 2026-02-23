@@ -15,4 +15,4 @@ steps:
       "--allow-unauthenticated"
     ]
 options:
- logging:cloud_loggin_only
+  logging:cloud_loggin_only
